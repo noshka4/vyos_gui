@@ -8,7 +8,8 @@ basic scenarios only. Check the security before using it in production
 (at the very least, restrict access to the panel with a firewall).
 
 I built this project for myself, to make it easier to manage my fleet of
-VyOS routers, and I'm publishing it as is, with no plans for active
+VyOS routers (I don't have a VyOS fleet myself, but the panel supports fleet management — to be honest.),
+and I'm publishing it as is, with no plans for active
 development. Fixes and improvements — as my own needs arise. Forks are
 welcome: the project is a good foundation for your own work.
 

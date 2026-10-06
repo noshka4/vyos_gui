@@ -20,6 +20,10 @@ file).
 
 ---
 
+ **Note:** the panel UI and the install guide are in Russian only.
+ No localization is planned. The panel's terminology follows VyOS CLI
+ concepts, so it should still be usable if you know the CLI commands.
+
 ## VyOS Panel — deployed as a container on the router
 
 A web panel for managing a fleet of VyOS routers. It installs directly

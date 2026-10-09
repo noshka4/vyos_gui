@@ -18,7 +18,7 @@ your own work.
 modifications must remain open under the same license (see the LICENSE
 file).
 
-**Download:** [Releases](https://github.com/noshka4/vyos_panel/releases/tag/2.4) — container image, install guide, tested VyOS ISO.
+**Download:** [Releases](https://github.com/noshka4/vyos_panel/releases/tag/2.6.1) — container image, install guide, tested VyOS ISO.
 
 ---
 
@@ -33,7 +33,7 @@ on one of the routers as a container (podman is built into VyOS) and
 manages the other nodes via the standard HTTPS API. Tested on
 `vyos-2026.10.01-0035-rolling`.
 
-Version 2.4 is a full-featured GUI, not just monitoring: editing
+Version 2.6.1 is a full-featured GUI, not just monitoring: editing
 interfaces and VLANs, firewall (rules and groups), NAT (masquerade/DNAT),
 static routes and OSPF, DHCP/DNS/NTP, VPN (WireGuard, IPsec site-to-site,
 GRE/IPIP/SIT/L2TPv3 tunnels, OpenVPN, L2TP/IPsec remote access), high

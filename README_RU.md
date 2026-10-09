@@ -17,7 +17,7 @@
 все форки и доработки должны оставаться открытыми под той же лицензией
 (подробности в файле LICENSE).
 
-**Скачать:** [Releases](https://github.com/noshka4/vyos_panel/releases/tag/2.4) — контейнер, инструкция, проверенный ISO
+**Скачать:** [Releases](https://github.com/noshka4/vyos_panel/releases/tag/2.6.1) — контейнер, инструкция, проверенный ISO
 
 ---
 
@@ -30,7 +30,7 @@
 как контейнер (podman встроен в VyOS) и управляет остальными узлами
 через штатный HTTPS API. Проверено на `vyos-2026.10.01-0035-rolling`.
 
-Версия 2.4 — полноценный GUI, а не только мониторинг: редактирование
+Версия 2.6.1 — полноценный GUI, а не только мониторинг: редактирование
 интерфейсов и VLAN, файрвола (правила и группы), NAT (masquerade/DNAT),
 статических маршрутов и OSPF, DHCP/DNS/NTP, VPN (WireGuard, IPsec
 site-to-site, GRE/IPIP/SIT/L2TPv3-туннели, OpenVPN, L2TP/IPsec
